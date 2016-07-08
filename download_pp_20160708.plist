@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string>http://r12.25pp.com/ppsoft/1467273334_0_0_7ea92516ea80ba1c18bfa4d1d7c6a596_vip.ipa</string>
+                    </dict>
+                    <dict>
+                        <key>kind</key>
+                        <string>display-image</string>
+                        <key>needs-shine</key>
+                        <true/>
+                        <key>url</key>
+                        <string>http://update2.locojoy.com/ios/MT/pp/20160708/pp_icon.png</string>
+                    </dict>
+                </array><key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                    <string>com.locojoy.pp.immt-a-chs-162-10</string>
+                    <key>bundle-version</key>
+                    <string>6.0.1.0</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>subtitle</key>
+                    <string>MT-A</string>
+                    <key>title</key>
+                    <string>我叫MT-PP版</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
